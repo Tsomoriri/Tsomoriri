@@ -97,7 +97,7 @@
     </td>
     <td>
         <!-- LeetCode -->
-        <a href="https://leetcode.com/u/Tsomoriri/" target="_blank"> 
+        <a href="https://leetcode.com/Tsomoriri/" target="_blank"> 
         <img src="https://img.shields.io/badge/LeetCode-Tsomoriri-%23FFA119?style=for-the-badge">
         </a>
      </td>
